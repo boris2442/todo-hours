@@ -29,8 +29,7 @@ require_once "includes/header.php";
   </div>
 </div>
 
-
-
+<script src="javascript/script2.js"></script>
 <?php
 require_once "includes/footer.php";
 ?>
